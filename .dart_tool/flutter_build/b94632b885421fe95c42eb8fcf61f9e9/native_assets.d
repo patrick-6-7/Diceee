@@ -1,0 +1,1 @@
+ D:\\Flutter\ course\\dice\\.dart_tool\\flutter_build\\b94632b885421fe95c42eb8fcf61f9e9\\native_assets.yaml: 
